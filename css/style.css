@@ -25,6 +25,7 @@ header  {
 .heating-heading{
     display: inline-box;
     color: #fff;
+    text-transform: uppercase;
 }
 
 header  {
@@ -100,10 +101,10 @@ main {
 }
 .red-p{
     color: #ab3c3c;
-    text-transform: capitalize;
 }
 .service-area-heading{
     font-size: 50px;
+    text-transform: uppercase;
 }
 
 
@@ -120,6 +121,7 @@ main {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 20px;
+    text-transform: capitalize;
 }
 
 .article {
