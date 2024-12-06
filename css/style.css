@@ -145,15 +145,12 @@ main {
 
 .article h3 {
     font-size: 18px;
-    color: #314b57;
     padding: 10px 15px;
     margin: 0;
 }
 
 .article h3 a {
     text-decoration: none;
-    color: #314b57;
-    font-weight: bold;
 }
 
 .article h3 a:hover {
