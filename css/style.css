@@ -38,6 +38,7 @@ header  {
 
 header .service-links li {
     display: inline-block;
+    text-transform: uppercase;
 }
 
 header .service-links a {
